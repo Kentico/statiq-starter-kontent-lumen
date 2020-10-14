@@ -354,9 +354,9 @@ pre[class*="language-"] { padding: 1em; margin: .5em 0; overflow: auto; }
 
 .links { margin-bottom: 26px; }
 
-.links__list { display: flex; list-style: none; padding: 0; margin: 10px -3px; }
+.links__list { display: flex; flex-flow: row wrap; flex-grow: 0; flex-shrink: 0; list-style: none; padding: 0; margin: 10px -3px; width: 140px; }
 
-.links__list-item { padding: 0; margin: 0 3px; height: 24px; width: 24px; line-height: 24px; border-radius: 3px; text-align: center; background: #ebebeb; }
+.links__list-item { padding: 0; margin: 4px; display: flex; align-content: center; align-items: center; justify-content: center; height: 35px; width: 35px; line-height: 35px; border-radius: 50%; text-align: center; border: 1px solid #ebebeb; }
 
 .links__list-item a { border: 0; }
 
