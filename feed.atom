@@ -4,35 +4,35 @@
 	<title>Lumen Blog</title>
 	<link rel="self" href="/" />
 	<rights>2020</rights>
-	<updated>2020-10-16T10:38:05Z</updated>
+	<updated>2020-10-16T10:43:40Z</updated>
 	<entry>
-		<id>/the-origins-of-social-stationery-lettering.html</id>
+		<id>/posts/the-origins-of-social-stationery-lettering.html</id>
 		<title>The Origins of Social Stationery Lettering</title>
-		<link href="/the-origins-of-social-stationery-lettering.html" />
+		<link href="/posts/the-origins-of-social-stationery-lettering.html" />
 		<updated>2020-03-25T00:00:00Z</updated>
 	</entry>
 	<entry>
-		<id>/a-brief-history-of-typography.html</id>
+		<id>/posts/a-brief-history-of-typography.html</id>
 		<title>A Brief History of Typography</title>
-		<link href="/a-brief-history-of-typography.html" />
+		<link href="/posts/a-brief-history-of-typography.html" />
 		<updated>2020-03-18T00:00:00Z</updated>
 	</entry>
 	<entry>
-		<id>/perfecting-the-art-of-perfection.html</id>
+		<id>/posts/perfecting-the-art-of-perfection.html</id>
 		<title>Perfecting the Art of Perfection</title>
-		<link href="/perfecting-the-art-of-perfection.html" />
+		<link href="/posts/perfecting-the-art-of-perfection.html" />
 		<updated>2020-03-14T00:00:00Z</updated>
 	</entry>
 	<entry>
-		<id>/humane-typography-in-the-digital-age.html</id>
+		<id>/posts/humane-typography-in-the-digital-age.html</id>
 		<title>Humane Typography in the Digital Age</title>
-		<link href="/humane-typography-in-the-digital-age.html" />
+		<link href="/posts/humane-typography-in-the-digital-age.html" />
 		<updated>2020-03-03T00:00:00Z</updated>
 	</entry>
 	<entry>
-		<id>/upgraded-to-gatsby-v2.html</id>
+		<id>/posts/upgraded-to-gatsby-v2.html</id>
 		<title>Upgraded to Gatsby v2</title>
-		<link href="/upgraded-to-gatsby-v2.html" />
+		<link href="/posts/upgraded-to-gatsby-v2.html" />
 		<updated>2020-02-29T00:00:00Z</updated>
 	</entry>
 </feed>
