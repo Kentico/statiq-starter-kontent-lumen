@@ -372,6 +372,29 @@ pre[class*="language-"] { padding: 1em; margin: .5em 0; overflow: auto; }
 
 @media screen and (min-width: 685px) { .layout { flex-direction: row; } }
 
+/**  Variables */
+/** Breakpoints */
+/** Margin */
+/** Padding */
+/** Line-Height */
+.pagination { margin-top: 52px; display: flex; }
+
+.pagination__prev { width: 50%; text-align: left; }
+
+.pagination__prev-link { color: #F05A22; font-size: 26px; font-weight: bold; }
+
+.pagination__prev-link:hover, .pagination__prev-link:focus { color: #0090D4; }
+
+.pagination__prev-link--disable { pointer-events: none; color: #bbbbbb; }
+
+.pagination__next { width: 50%; text-align: right; }
+
+.pagination__next-link { color: #F05A22; font-size: 26px; font-weight: bold; }
+
+.pagination__next-link:hover, .pagination__next-link:focus { color: #0090D4; }
+
+.pagination__next-link--disable { pointer-events: none; color: #bbbbbb; }
+
 .page { margin-bottom: 52px; }
 
 .page__title { font-size: 40px; font-weight: 500; line-height: 52px; margin-top: 0px; margin-bottom: 37.7px; }
