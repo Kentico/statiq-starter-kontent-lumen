@@ -4,7 +4,7 @@
 	<title>Lumen Blog</title>
 	<link rel="self" href="/statiq-starter-kontent-lumen" />
 	<rights>2020</rights>
-	<updated>2020-10-23T22:49:04Z</updated>
+	<updated>2020-10-26T21:14:37Z</updated>
 	<entry>
 		<id>/statiq-starter-kontent-lumen/posts/the-origins-of-social-stationery-lettering</id>
 		<title>The Origins of Social Stationery Lettering</title>
@@ -33,6 +33,8 @@
 		<id>/statiq-starter-kontent-lumen/posts/upgraded-to-gatsby-v2</id>
 		<title>Upgraded to Gatsby v2</title>
 		<link href="/statiq-starter-kontent-lumen/posts/upgraded-to-gatsby-v2" />
+		<link rel="enclosure" type="image" href="https://assets-eu-01.kc-usercontent.com/9f25588c-7478-01ce-a4c1-90a6f971ba9c/9f854562-657a-44a0-bc82-7c441b66614d/92a7b2bab0013bb5b18d0c3e3ca13796.png" />
 		<updated>2020-02-29T00:00:00Z</updated>
+		<summary>Lumen is a minimal, lightweight, and mobile-first starter for creating blogs and uses Gatsby.</summary>
 	</entry>
 </feed>
