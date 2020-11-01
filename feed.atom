@@ -4,30 +4,34 @@
 	<title>Lumen Blog</title>
 	<link rel="self" href="https://petrsvihlik.github.io/statiq-starter-kontent-lumen" />
 	<rights>2020</rights>
-	<updated>2020-11-01T22:52:04Z</updated>
+	<updated>2020-11-01T23:32:42Z</updated>
+	<entry>
+		<id>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age</id>
+		<title>Humane Typography in the Digital Age</title>
+		<link href="https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age" />
+		<updated>2020-10-01T00:00:00Z</updated>
+		<summary>An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.</summary>
+	</entry>
 	<entry>
 		<id>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/the-origins-of-social-stationery-lettering</id>
 		<title>The Origins of Social Stationery Lettering</title>
 		<link href="https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/the-origins-of-social-stationery-lettering" />
 		<updated>2020-03-25T00:00:00Z</updated>
+		<summary>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</summary>
 	</entry>
 	<entry>
 		<id>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/a-brief-history-of-typography</id>
 		<title>A Brief History of Typography</title>
 		<link href="https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/a-brief-history-of-typography" />
 		<updated>2020-03-18T00:00:00Z</updated>
+		<summary>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</summary>
 	</entry>
 	<entry>
 		<id>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/perfecting-the-art-of-perfection</id>
 		<title>Perfecting the Art of Perfection</title>
 		<link href="https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/perfecting-the-art-of-perfection" />
 		<updated>2020-03-14T00:00:00Z</updated>
-	</entry>
-	<entry>
-		<id>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age</id>
-		<title>Humane Typography in the Digital Age</title>
-		<link href="https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age" />
-		<updated>2020-03-03T00:00:00Z</updated>
+		<summary>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.</summary>
 	</entry>
 	<entry>
 		<id>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/upgraded-to-gatsby-v2</id>
@@ -35,6 +39,6 @@
 		<link href="https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/upgraded-to-gatsby-v2" />
 		<link rel="enclosure" type="image" href="https://assets-eu-01.kc-usercontent.com/9f25588c-7478-01ce-a4c1-90a6f971ba9c/9f854562-657a-44a0-bc82-7c441b66614d/92a7b2bab0013bb5b18d0c3e3ca13796.png" />
 		<updated>2020-02-29T00:00:00Z</updated>
-		<summary>Lumen is a minimal, lightweight, and mobile-first starter for creating blogs and uses Gatsby.</summary>
+		<summary>This starter has been forked and upgraded to Gatsby v2</summary>
 	</entry>
 </feed>

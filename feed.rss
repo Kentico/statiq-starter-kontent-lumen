@@ -5,11 +5,20 @@
 		<link>https://petrsvihlik.github.io/statiq-starter-kontent-lumen</link>
 		<description />
 		<copyright>2020</copyright>
-		<pubDate>Sun, 01 Nov 2020 22:52:04 GMT</pubDate>
-		<lastBuildDate>Sun, 01 Nov 2020 22:52:04 GMT</lastBuildDate>
+		<pubDate>Sun, 01 Nov 2020 23:32:42 GMT</pubDate>
+		<lastBuildDate>Sun, 01 Nov 2020 23:32:42 GMT</lastBuildDate>
+		<item>
+			<title>Humane Typography in the Digital Age</title>
+			<link>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age</link>
+			<description>An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.</description>
+			<guid>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age</guid>
+			<pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
 		<item>
 			<title>The Origins of Social Stationery Lettering</title>
 			<link>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/the-origins-of-social-stationery-lettering</link>
+			<description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
 			<guid>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/the-origins-of-social-stationery-lettering</guid>
 			<pubDate>Wed, 25 Mar 2020 00:00:00 GMT</pubDate>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
@@ -17,6 +26,7 @@
 		<item>
 			<title>A Brief History of Typography</title>
 			<link>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/a-brief-history-of-typography</link>
+			<description>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</description>
 			<guid>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/a-brief-history-of-typography</guid>
 			<pubDate>Wed, 18 Mar 2020 00:00:00 GMT</pubDate>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
@@ -24,21 +34,15 @@
 		<item>
 			<title>Perfecting the Art of Perfection</title>
 			<link>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/perfecting-the-art-of-perfection</link>
+			<description>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.</description>
 			<guid>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/perfecting-the-art-of-perfection</guid>
 			<pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
 		<item>
-			<title>Humane Typography in the Digital Age</title>
-			<link>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age</link>
-			<guid>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/humane-typography-in-the-digital-age</guid>
-			<pubDate>Tue, 03 Mar 2020 00:00:00 GMT</pubDate>
-			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
-		</item>
-		<item>
 			<title>Upgraded to Gatsby v2</title>
 			<link>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/upgraded-to-gatsby-v2</link>
-			<description>Lumen is a minimal, lightweight, and mobile-first starter for creating blogs and uses Gatsby.</description>
+			<description>This starter has been forked and upgraded to Gatsby v2</description>
 			<enclosure url="https://assets-eu-01.kc-usercontent.com/9f25588c-7478-01ce-a4c1-90a6f971ba9c/9f854562-657a-44a0-bc82-7c441b66614d/92a7b2bab0013bb5b18d0c3e3ca13796.png" length="0" type="image" />
 			<guid>https://petrsvihlik.github.io/statiq-starter-kontent-lumen/posts/upgraded-to-gatsby-v2</guid>
 			<pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
