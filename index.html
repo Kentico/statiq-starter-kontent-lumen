@@ -22,6 +22,7 @@
             queryParam: 'preview',
         });
     </script>
+    <script type="application/javascript" src="/statiq-starter-kontent-lumen/assets/js/darkmode.js"></script>
     
 </head>
 
@@ -53,6 +54,13 @@
                 <a href="/statiq-starter-kontent-lumen/pages/contact" class="menu__list-item-link " data-kontent-element-codename="title">Contact me</a>
             </li>
     </ul>
+    <div class="switch__container">
+    <span class="switch__text">Night mode</span>
+    <label class="switch">
+        <input id="DarkModeSwitcher" type="checkbox">
+        <span class="slider" onclick="toggleDarkMode();">
+    </span></label>
+</div>
 </nav>
         
 <div class="links">

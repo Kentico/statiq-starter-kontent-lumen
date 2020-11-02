@@ -24,6 +24,7 @@
             queryParam: 'preview',
         });
     </script>
+    <script type="application/javascript" src="/statiq-starter-kontent-lumen/assets/js/darkmode.js"></script>
     
 </head>
 
@@ -51,15 +52,22 @@
 <nav class="menu">
     <ul class="menu__list">
             <li class="menu__list-item" data-kontent-item-id="6280fbe2-50fa-4239-a43c-1da9b28fc588">
-                <a href="/statiq-starter-kontent-lumen/"  class="menu__list-item-link " data-kontent-element-codename="title">Articles</a>
+                <a href="/statiq-starter-kontent-lumen/" class="menu__list-item-link " data-kontent-element-codename="title">Articles</a>
             </li>
             <li class="menu__list-item" data-kontent-item-id="2892bb6f-e7c7-4027-9565-22e99c8a7248">
-                <a href="/statiq-starter-kontent-lumen/pages/about-me"  class="menu__list-item-link " data-kontent-element-codename="title">About me</a>
+                <a href="/statiq-starter-kontent-lumen/pages/about-me" class="menu__list-item-link " data-kontent-element-codename="title">About me</a>
             </li>
             <li class="menu__list-item" data-kontent-item-id="d7c01d07-250d-4c07-9c88-ce339f1db4e1">
-                <a href="/statiq-starter-kontent-lumen/pages/contact"  class="menu__list-item-link " data-kontent-element-codename="title">Contact me</a>
+                <a href="/statiq-starter-kontent-lumen/pages/contact" class="menu__list-item-link " data-kontent-element-codename="title">Contact me</a>
             </li>
     </ul>
+    <div class="switch__container">
+    <span class="switch__text">Night mode</span>
+    <label class="switch">
+        <input id="DarkModeSwitcher" type="checkbox" />
+        <span class="slider" onClick="toggleDarkMode();" />
+    </label>
+</div>
 </nav>
         
 <div class="links">
